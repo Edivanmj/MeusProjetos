@@ -1,0 +1,7 @@
+para rodar o backend digite onde esta o aquivo exemplo;
+cd C:\Users\ediva\Downloads\PetShop_Completo\backend
+apos colocar o local do aquivono terminal digite:
+node server.js
+tem que aparecer: Servidor rodando em http://localhost:3000
+
+pronto ja esta rodando
