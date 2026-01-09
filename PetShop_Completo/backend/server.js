@@ -20,6 +20,7 @@ app.use("/servicos", require("./routes/servicos"));
 app.use("/compras", require("./routes/compras"));
 app.use("/pagamentos", require("./routes/pagamentos"));
 app.use("/agendamentos", require("./routes/agendamentos"));
+app.use("/chatbot", require("./routes/chatbot"));
 
 // Rota principal para carregar o index.html
 app.get("/", (req, res) => {
